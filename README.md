@@ -2,6 +2,8 @@
 
 A lightweight realtime stash creator for **FiveM**, built with **ox_lib**, **ox_target**, and **ox_inventory**.
 
+# Open with command: /stashcreator or customize it in config file
+
 ## Features
 - Create stashes directly ingame
 - Easy interaction with **ox_target**
